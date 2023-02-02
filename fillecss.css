@@ -1,0 +1,21 @@
+.fit-text1{
+    top:0px;
+    position:fixed;
+    right: center;
+    text-size-adjust: 100px;
+    text-align: center;
+    text-decoration: blue;
+    text-decoration: underline red;
+    text-decoration-color: blue;
+    color:blue;
+}
+.gambar{
+    position:fixed;
+    left:-20px;
+    right:400px;
+    top: 50px;
+    border-image-width: 40px;
+    bottom: 100px;
+    border-color: brown;
+    border-radius: 20px;
+}
